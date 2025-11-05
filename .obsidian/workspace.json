@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d5959574fb0eb363",
+        "id": "1c973bc9c91be1d9",
         "type": "tabs",
         "children": [
           {
-            "id": "de26851c4112ffd6",
+            "id": "33844a9fcd5e53ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "typora 测试.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "OneDrive/GoodNotes/Math/竞赛/IMC/IMC PROCESS/2002 Day 1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "typora 测试"
+              "icon": "lucide-file-text",
+              "title": "2002 Day 1"
             }
           }
         ]
@@ -45,25 +33,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "207a1bdbb1081a4a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": true
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
-            }
-          },
-          {
             "id": "406fbf5631ca5fc7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#实分析",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +58,22 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "1c218dccd526e073",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -104,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "我的笔记本-goodnote/Math/纯数学 Pure Math/分析学 Analysis/数学分析 Analysis/深入/第5.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "第5 的反向链接列表"
             }
           },
           {
@@ -122,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": true,
+                "file": "笔记共享vault/math/不存在这样的连续函数.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "不存在这样的连续函数 的出链列表"
             }
           },
           {
@@ -150,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "笔记共享vault/math/不存在这样的连续函数.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "不存在这样的连续函数 的大纲"
             }
           },
           {
@@ -165,8 +156,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -193,10 +184,10 @@
             "id": "38e8fda8ad8926f5",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           },
           {
@@ -205,20 +196,71 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "0d7f9e981223fe12",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "258662643d7021a1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "ab8621dd555d58f9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "11b4fb1691f56043",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "ed47681d31389d48",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
+      "bases:创建新数据库": false,
       "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -226,6 +268,7 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
@@ -233,54 +276,54 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "207a1bdbb1081a4a",
+  "active": "33844a9fcd5e53ac",
   "lastOpenFiles": [
+    "未命名 1.base",
+    "未命名.base",
+    "行李准备.md",
+    "数学/纯数学/代数学/抽象代数讲义（2022年8月10日版）.pdf",
+    "文件/琴谱/Deltarune - The World Revolving.pdf",
+    "文件/琴谱",
+    "文件/论文/论文/留数定理解决实积分完整教程.pdf",
+    "文件/论文/论文/preunkert2004.pdf",
+    "文件/论文/论文",
+    "文件/论文/2502.06137v2.pdf",
+    "文件/论文",
+    "文件/临摹/0127fe618493c511013e8943342ae7.webp",
+    "文件/临摹",
+    "文件/数学/竞赛/2012-2024历年总决赛真题/2012-2024Probability and Statistics/Overall/2014 Probability (Overall).JPG",
+    "typora 测试.md",
+    "笔记共享vault/math/不存在这样的连续函数.md",
+    "我的笔记本-pc/数模棍哥/2层次分析法.md",
+    "笔记共享vault/math/证明e的平方是无理数.md",
+    "我的笔记本-pc/小巧思/未命名.md",
+    "@.md",
+    "我的笔记本-pc/小巧思/美丽也可以这么美丽吗.md",
+    "笔记共享vault/math/巴塞尔问题.md",
+    "笔记共享vault/math/把积分转换为级数求积分.md",
+    "笔记共享vault/配图/第一同态定理.png",
+    "笔记共享vault/配图/把圆盘分割为九个部分.png",
+    "笔记共享vault/图片_math/0e56ae61-6443-4370-919e-d76f72c17da0.webp",
+    "笔记共享vault/人物图谱/Terence Tao.md",
+    "Untitled.md",
+    "我的笔记本-pc/数学/Legendre polynomial.md",
+    "我的笔记本-pc/数学/Laplace  series.md",
+    "我的笔记本-pc/数学/Hypergeometric function.md",
+    "我的笔记本-pc/数学/Untitled.md",
+    "我的笔记本-pc/数学/Legendre多项式.md",
+    "我的笔记本-pc/数学/Laplace  级数.md",
     "我的笔记本-goodnote/45a4125358e3409c9b9a2230daa03943_00000.png",
     "2b4336c602c34f7d9a4d65f0ec90081e_00001.png",
-    "我的笔记本-goodnote/Math/纯数学 Pure Math/代数学 Algebra/抽象代数 Abstract Algebra/maki/Chapter 1/1.1.pdf",
-    "typora 测试.md",
     "笔记共享vault/math/调和函数最大模原理.md",
     "笔记共享vault/math/an epsilon of room.md",
     "笔记共享vault/math/Cesaro-Stolz定理.md",
     "笔记共享vault/math/Hilbert空间当中的基的四个等价命题.md",
-    "笔记共享vault/math/巴塞尔问题.md",
-    "笔记共享vault/file/有限测度当中各种收敛方式之间的关系.pdf",
     "笔记共享vault/图片_math/6a566afc-b04d-4b6e-9812-e266c59ea614.webp",
-    "我的笔记本-goodnote/Philosophy/形而上学/卷A形而上学.pdf",
-    "我的笔记本-goodnote/Philosophy/逻辑推理 Critical Reasoning/Ct1.pdf",
-    "我的笔记本-goodnote/Philosophy/逻辑 Logic/lo1.pdf",
-    "我的笔记本-goodnote/Math/离散数学 Discrete Math/图论 graph theory/1graph.pdf",
     "百年孤独阅读笔记/单词表.md",
-    "我的笔记本-goodnote/无标题的笔记本.pdf",
     "我的笔记本-obsidian/哲学-philosophy/形而上学/Ⅰ-metaphy.md",
-    "我的笔记本-goodnote/Math/纯数学/几何学 Geometry",
-    "我的笔记本-goodnote/Math/纯数学/分析学 Analysis/数学分析 Analysis/深入/第4.pdf",
-    "我的笔记本-goodnote/Math/纯数学/分析学 Analysis/概率论 Possibility/基础/第一部分.pdf",
     "未命名.md",
     "未命名.canvas",
-    "笔记共享vault/math/依测度收敛的等价命题.md",
-    "笔记共享vault/人物图谱/Alberto Calderón.md",
-    "笔记共享vault/math/把积分转换为级数求积分.md",
-    "笔记共享vault/math/打字机函数列.md",
     "笔记共享vault/图片_math/黑白世界.webp",
-    "笔记共享vault/图片_math/高斯圆问题图示1.png",
-    "笔记共享vault/图片_math/项链着色问题.webp",
-    "笔记共享vault/图片_math/递归序列的渐近.png",
-    "笔记共享vault/图片_math/证明高斯整数构成ED.png",
-    "笔记共享vault/图片_math/苏联解体.png",
-    "笔记共享vault/图片_math/苏联中学建筑.webp",
-    "笔记共享vault/图片_math/自由女神.png",
-    "笔记共享vault/math/黎曼积分的定义以及黎曼可积的判别.md",
-    "笔记共享vault/math/黎曼和对积分的近似.md",
-    "笔记共享vault/math/黎曼可积的Lebesgue判别.md",
-    "笔记共享vault/math/高斯整数的性质.md",
-    "笔记共享vault/math/随机变量期望收敛导出几乎处处收敛的一个条件.md",
-    "笔记共享vault/math/除了一个根以外其余全部根都在单位圆盘内部的多项式.md",
-    "笔记共享vault/math/配方从而制造出平方差.md",
-    "笔记共享vault/math/逼近单位元在局部上的收敛性的一个典型例子.md",
-    "笔记共享vault/math/通过阶来排除不可能的多项式.md",
-    "笔记共享vault/math/通过求期望证明具有某种性质的结构的存在性.md",
-    "笔记共享vault/math/通过子列的收敛性验证单调增加的函数列的收敛性.md",
-    "笔记共享vault/math/递推序列确定渐近系数但Stolz失灵的情况.md"
+    "笔记共享vault/图片_math/高斯圆问题图示1.png"
   ]
 }
