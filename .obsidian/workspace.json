@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1c973bc9c91be1d9",
+        "id": "d54b5d4b555ed6f9",
         "type": "tabs",
         "children": [
           {
-            "id": "33844a9fcd5e53ac",
+            "id": "ad0921083e39ebd1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "OneDrive/GoodNotes/Math/竞赛/IMC/IMC PROCESS/2002 Day 1.pdf"
+                "file": "Typora/数学/Probability/Test method.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "2002 Day 1"
+              "icon": "lucide-file",
+              "title": "Test method"
             }
           }
         ]
@@ -38,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#实分析",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -46,7 +58,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -69,7 +81,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           }
         ],
@@ -167,7 +179,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "New tab"
             }
           },
           {
@@ -177,7 +189,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "New tab"
             }
           },
           {
@@ -187,7 +199,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "New tab"
             }
           },
           {
@@ -196,8 +208,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -206,8 +218,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -217,7 +229,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "New tab"
             }
           },
           {
@@ -227,7 +239,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "New tab"
             }
           },
           {
@@ -237,11 +249,81 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "New tab"
             }
           },
           {
             "id": "ed47681d31389d48",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "17e678e400a7c44a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1f925f631fac58a2",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          },
+          {
+            "id": "1352edd2ac08c686",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3ea888281b079f78",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e2d61b8b88e27a98",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "647ac38c9fb8023f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a1984f3b468ab1d3",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -251,23 +333,24 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 687.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
-      "workspaces:管理工作区布局": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
@@ -276,54 +359,55 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "33844a9fcd5e53ac",
+  "active": "5c93cba53e23a6b4",
   "lastOpenFiles": [
-    "未命名 1.base",
-    "未命名.base",
-    "行李准备.md",
-    "数学/纯数学/代数学/抽象代数讲义（2022年8月10日版）.pdf",
-    "文件/琴谱/Deltarune - The World Revolving.pdf",
-    "文件/琴谱",
-    "文件/论文/论文/留数定理解决实积分完整教程.pdf",
-    "文件/论文/论文/preunkert2004.pdf",
-    "文件/论文/论文",
-    "文件/论文/2502.06137v2.pdf",
-    "文件/论文",
-    "文件/临摹/0127fe618493c511013e8943342ae7.webp",
-    "文件/临摹",
-    "文件/数学/竞赛/2012-2024历年总决赛真题/2012-2024Probability and Statistics/Overall/2014 Probability (Overall).JPG",
-    "typora 测试.md",
-    "笔记共享vault/math/不存在这样的连续函数.md",
-    "我的笔记本-pc/数模棍哥/2层次分析法.md",
-    "笔记共享vault/math/证明e的平方是无理数.md",
-    "我的笔记本-pc/小巧思/未命名.md",
-    "@.md",
-    "我的笔记本-pc/小巧思/美丽也可以这么美丽吗.md",
-    "笔记共享vault/math/巴塞尔问题.md",
-    "笔记共享vault/math/把积分转换为级数求积分.md",
-    "笔记共享vault/配图/第一同态定理.png",
-    "笔记共享vault/配图/把圆盘分割为九个部分.png",
-    "笔记共享vault/图片_math/0e56ae61-6443-4370-919e-d76f72c17da0.webp",
-    "笔记共享vault/人物图谱/Terence Tao.md",
-    "Untitled.md",
-    "我的笔记本-pc/数学/Legendre polynomial.md",
-    "我的笔记本-pc/数学/Laplace  series.md",
-    "我的笔记本-pc/数学/Hypergeometric function.md",
-    "我的笔记本-pc/数学/Untitled.md",
-    "我的笔记本-pc/数学/Legendre多项式.md",
-    "我的笔记本-pc/数学/Laplace  级数.md",
-    "我的笔记本-goodnote/45a4125358e3409c9b9a2230daa03943_00000.png",
-    "2b4336c602c34f7d9a4d65f0ec90081e_00001.png",
-    "笔记共享vault/math/调和函数最大模原理.md",
-    "笔记共享vault/math/an epsilon of room.md",
-    "笔记共享vault/math/Cesaro-Stolz定理.md",
-    "笔记共享vault/math/Hilbert空间当中的基的四个等价命题.md",
-    "笔记共享vault/图片_math/6a566afc-b04d-4b6e-9812-e266c59ea614.webp",
-    "百年孤独阅读笔记/单词表.md",
-    "我的笔记本-obsidian/哲学-philosophy/形而上学/Ⅰ-metaphy.md",
-    "未命名.md",
-    "未命名.canvas",
-    "笔记共享vault/图片_math/黑白世界.webp",
-    "笔记共享vault/图片_math/高斯圆问题图示1.png"
+    "Typora/数学/UNUK notes/Probability and Statistics/UNUK_Probability_1.md",
+    "Typora/数学/UNUK notes/Probability and Statistics/UNUK_Statistics_1.md",
+    "GoodNotes/coursework.pdf",
+    "GoodNotes/C题.pdf",
+    "GoodNotes/poster.pdf",
+    "GoodNotes/Untitled.pdf",
+    "GoodNotes/图像.pdf",
+    "GoodNotes/草稿.pdf",
+    "GoodNotes/1.pdf",
+    "PDF_links.md",
+    "Mobius Transformation.md",
+    "Pikachu_Vault/图片_math/26647479-539c-448d-832e-142306c27c5a.webp.md",
+    "Image_links.md",
+    "Pikachu_Vault/图片_math",
+    "Pikachu_Vault",
+    "Typora/未来计划目录.md",
+    "GoodNotes/Programme/数模.pdf~RF2c49e6e.TMP",
+    "GoodNotes/45a4125358e3409c9b9a2230daa03943_00000.png",
+    "PDF-linker.canvas",
+    "ChatGPT_Dialogue/小C回忆录.md",
+    "ChatGPT_Dialoge/小C回忆录.md",
+    "Chat/小C回忆录.md",
+    "Pikachu_Vault/配图/项链着色问题.webp",
+    "Pikachu_Vault/配图/简单积分放缩的精度可能不够.png",
+    "Pikachu_Vault/配图/群的第一同态定理.png",
+    "Pikachu_Vault/配图/糖水不等式示意图.png",
+    "Pikachu_Vault/配图/概率的各种收敛以及相互关系.png",
+    "Pikachu_Vault/配图/第一同态定理.png",
+    "Pikachu_Vault/配图/目标精度要求是如何的.png",
+    "Pikachu_Vault/配图/把圆盘分割为九个部分.png",
+    "Pikachu_Vault/配图/正交多项式一次项系数绝对值的增长.png",
+    "Pikachu_Vault/math/黎曼积分的定义以及黎曼可积的判别.md",
+    "Pikachu_Vault/math/黎曼和对积分的近似.md",
+    "Pikachu_Vault/math/黎曼和与积分的单调性.md",
+    "Pikachu_Vault/math/黎曼可积的Lebesgue判别.md",
+    "Pikachu_Vault/math/高斯整数的性质.md",
+    "Pikachu_Vault/math/鸽笼原理.md",
+    "Pikachu_Vault/math/除了一个根以外其余全部根都在单位圆盘内部的多项式.md",
+    "Pikachu_Vault/math/非负序列差分的约束条件导致序列收敛.md",
+    "Pikachu_Vault/math/非欧氏空间当中有界闭未必紧.md",
+    "Pikachu_Vault/math/随机变量期望收敛导出几乎处处收敛的一个条件.md",
+    "Pikachu_Vault/math/配方从而制造出平方差.md",
+    "Pikachu_Vault/math/通过重整来证明表达式的非负性.md",
+    "Pikachu_Vault/math/部分积的上界估计与Gautschi不等式.md",
+    "Pikachu_Vault/math/逼近单位元在局部上的收敛性的一个典型例子.md",
+    "Pikachu_Vault/math/通过阶来排除不可能的多项式.md",
+    "Pikachu_Vault/math/通过求期望证明具有某种性质的结构的存在性.md",
+    "未命名.canvas"
   ]
 }

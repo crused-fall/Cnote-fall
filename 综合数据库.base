@@ -7,3 +7,6 @@ views:
       - file.mtime
       - file.tags
       - tags
+    sort:
+      - property: file.folder
+        direction: ASC

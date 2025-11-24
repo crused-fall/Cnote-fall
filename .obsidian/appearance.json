@@ -1,7 +1,10 @@
 {
-  "accentColor": "",
-  "baseFontSize": 20,
-  "interfaceFontFamily": "Book Antiqua",
-  "textFontFamily": "Bodoni 72 Oldstyle,MV Boli,Arial Black",
-  "cssTheme": "Minimal"
+  "accentColor": "#8e909f",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Times New Roman,Palatino Linotype",
+  "textFontFamily": "Times New Roman",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSizeAction": true
 }

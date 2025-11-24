@@ -1,0 +1,4 @@
+Obsidian_PDF_Linker.py 会扫描下级文件夹中所有pdf并将其以obsidian可识别的方式链接于同一文件PDF_links.md中
+
+更新PDF_links.md 的方法是 输入 python Obsidian_PDF_Linker.py
+
