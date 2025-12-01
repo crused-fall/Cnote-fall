@@ -11,10 +11,24 @@
             "id": "8ab72d21297236e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox代办/资料目录/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -203,6 +217,11 @@
   },
   "active": "668cc566781ec815",
   "lastOpenFiles": [
+    "00-Inbox代办/技术学习.md",
+    "00-Inbox代办/内容学习.md",
+    "00-Inbox代办/资料目录/Untitled.md",
+    "00-Inbox代办/资料目录",
+    "00-Inbox代办",
     "00-Daily_note/00-Daily_note.md",
     "00-Daily_note",
     "07-Inbox/00-TBC待完成/勒让德多项式.md",
@@ -231,13 +250,8 @@
     "06-Templater/MOC_Templater.md",
     "06-Templater/GeneralProperties_Templater.md",
     "06-Templater/Generate.md",
-    "06-Templater/DailyNote_Templater.md",
-    "06-Templater/Academics_Templater.md",
     "06-Templater",
-    "05-Ai_Dialogue/Obsidian_Copilot/copilot-custom-prompts/Translate to Chinese.md",
     "05-Ai_Dialogue/Obsidian_Copilot/copilot-custom-prompts",
-    "05-Ai_Dialogue/ChatGPT/Philosophy",
-    "05-Ai_Dialogue/ChatGPT/TechLearning",
-    "05-Ai_Dialogue/ChatGPT/MathLearning"
+    "05-Ai_Dialogue/ChatGPT/Philosophy"
   ]
 }
