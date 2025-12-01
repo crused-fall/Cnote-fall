@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "7ec017e673a41a43",
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "0b8e1dbfc055b842",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "8ab72d21297236e4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -27,42 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "787ebd981d1390cc",
+    "id": "9ac89e74bb0e440f",
     "type": "split",
     "children": [
       {
-        "id": "c20b0ca312a435a6",
+        "id": "e92bae6957b4f8ca",
         "type": "tabs",
         "children": [
           {
-            "id": "406fbf5631ca5fc7",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:moc",
-                "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "08bcf4df6d4caf4e",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "1c218dccd526e073",
+            "id": "668cc566781ec815",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -75,65 +44,79 @@
             }
           },
           {
-            "id": "57c748a9b656522f",
+            "id": "b2faf9857b64c8a6",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a93676d0618b50cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 300
   },
   "right": {
-    "id": "ae1ef46d9c3344a1",
+    "id": "067c1d77b72da2f0",
     "type": "split",
     "children": [
       {
-        "id": "d0451d5c773c12e9",
+        "id": "b9028b4912253919",
         "type": "tabs",
         "children": [
           {
-            "id": "c9da40caf1476b2d",
+            "id": "7295ae4e65cb3655",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templater/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "4094a5bcad4e59dd",
+            "id": "e850e2d58f96c5e2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templater/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "6f14053d027d3cdb",
+            "id": "bef5d4d16cb9af45",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,12 +131,26 @@
             }
           },
           {
-            "id": "11f93d4d0c1aa6fc",
+            "id": "7ecadde4703fcceb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "74a0ba578e70bb90",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": true,
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -162,17 +159,17 @@
             }
           },
           {
-            "id": "6482b8c7abd6afd3",
+            "id": "e42f82743ff23a11",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
-            "id": "5c93cba53e23a6b4",
+            "id": "36e7d8a88e4f4935",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -180,142 +177,67 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "1f925f631fac58a2",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {
-                "file": "01-GoodNotes/Math/离散数学 Discrete Math/图论 graph theory/2graph.pdf"
-              },
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
-            }
-          },
-          {
-            "id": "40d51281dbc115e7",
-            "type": "leaf",
-            "state": {
-              "type": "checklist-outline-view",
-              "state": {},
-              "icon": "check-square",
-              "title": "阅读进度大纲"
-            }
-          },
-          {
-            "id": "f055ffbf90df667f",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
-            "id": "cc4c2d4e92b724df",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "e65c21f9fe67fc8a",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 555.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "quickadd:QuickAdd": false,
-      "zk-prefixer:Create new unique note": false,
-      "canvas:Create new canvas": false,
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "daily-notes:Open today's daily note": false,
-      "graph:Open graph view": false,
       "markdown-importer:Open format converter": false,
-      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "copilot:Open Copilot Chat": false,
-      "homepage:Open homepage": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "668cc566781ec815",
   "lastOpenFiles": [
     "00-Daily_note/00-Daily_note.md",
-    "02-Tech_learning/Obsidian Plugin/attachment-management.md",
-    "00-Daily_note/00-Daily_note.base",
-    "02-Tech_learning/Obsidian Plugin/Obsidian Plugin.md",
-    "04-Pikachu_vault/图片_math/26647479-539c-448d-832e-142306c27c5a.webp.md",
-    "04-Pikachu_vault/图片_math",
-    "04-Pikachu_vault",
-    "01-Stuff_learing/Math数学/Probability/Test method/Tests in Regression Analysis/Tests in Regression Analysis.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/Time Series Tests/Time Series Tests.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/Two-Sample and Multiple Group Comparison Tests/Two-Sample and Multiple Group Comparison Tests.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/Other Specialized Tests/Other Specialized Tests.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/Survival Analysis Tests/Survival Analysis Tests.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/One-Variable and Distribution Tests/One-Variable and Distribution Tests.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/Proportions and Categorical Data Tests/Proportions and Categorical Data Tests.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/One-Variable and Distribution Tests/One-Sample t-test.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/One-Variable and Distribution Tests/Shapiro-Wilk Test.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/One-Variable and Distribution Tests/One-Sample Z-test.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/One-Variable and Distribution Tests/One-Sample Wilcoxon Signed-Rank Test.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/One-Variable and Distribution Tests/Jarque-Bera Test.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/One-Variable and Distribution Tests/One-Sample Sign Test.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/One-Variable and Distribution Tests/Kolmogorov-Smirnov Test.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/One-Variable and Distribution Tests/Anderson-Darling Test.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/One-Variable and Distribution Tests/Chi-Square Goodness-of-Fit Test.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/Homogeneity of Variances Tests/Homogeneity of Variances Tests.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/Non-Parametric and Randomness Tests/Non-Parametric and Randomness Tests.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/Correlation and Association Tests/Correlation and Association Tests.md",
-    "01-Stuff_learing/Math数学/UNUK notes/Vector calculus/UNUK_Vector Calculus_1.md",
-    "01-Stuff_learing/Math数学/UNUK notes/Electromagnetic/UNUK_Electromagnetism_2.md",
-    "01-Stuff_learing/Math数学/UNUK notes/Electromagnetic/UNUK_Electromagnetism_1.md",
-    "01-Stuff_learing/Math数学/Probability/Test method/Two-Sample and Multiple Group Comparison Tests",
-    "01-Stuff_learing/Math数学/Probability/Test method/Time Series Tests",
-    "01-Stuff_learing/Math数学/Probability/Test method/Tests in Regression Analysis",
-    "01-Stuff_learing/Math数学/Probability/Test method/Other Specialized Tests",
-    "01-Stuff_learing/Math数学/Probability/Test method/Survival Analysis Tests",
-    "01-Stuff_learing/Math数学/Probability/Test method/Proportions and Categorical Data Tests",
-    "01-Stuff_learing/Math数学/Probability/Test method/One-Variable and Distribution Tests",
-    "00-PC notes/Math数学/UNUK notes/UNUK notes.canvas",
-    "01-GoodNotes/45a4125358e3409c9b9a2230daa03943_00000.png",
-    "Untitled.canvas",
-    "GoodNotes/45a4125358e3409c9b9a2230daa03943_00000.png",
-    "PDF-linker.canvas",
-    "Pikachu_Vault/配图/项链着色问题.webp",
-    "Pikachu_Vault/配图/简单积分放缩的精度可能不够.png",
-    "Pikachu_Vault/配图/群的第一同态定理.png",
-    "Pikachu_Vault/配图/糖水不等式示意图.png",
-    "Pikachu_Vault/配图/概率的各种收敛以及相互关系.png",
-    "Pikachu_Vault/配图/第一同态定理.png",
-    "Pikachu_Vault/配图/目标精度要求是如何的.png",
-    "Pikachu_Vault/配图/把圆盘分割为九个部分.png",
-    "未命名.canvas"
+    "00-Daily_note",
+    "07-Inbox/00-TBC待完成/勒让德多项式.md",
+    "07-Inbox/00-TBC待完成/Spherical harmonic funtion.md",
+    "07-Inbox/00-TBC待完成/Mobius Transformation.md",
+    "07-Inbox/00-TBC待完成/Liouville eigenvalue problem.md",
+    "07-Inbox/00-TBC待完成/Kruskal Theorem.md",
+    "07-Inbox/00-TBC待完成/Jordan Chain.md",
+    "07-Inbox/00-TBC待完成/Hypergeometric function.md",
+    "07-Inbox/00-TBC待完成/9网络最大流问题.md",
+    "07-Inbox/00-TBC待完成/8图论简介.md",
+    "07-Inbox/00-TBC待完成/11差值方法.md",
+    "07-Inbox/00-TBC待完成/10旅行商(TSP)问题.md",
+    "07-Inbox/00-TBC待完成",
+    "07-Inbox",
+    "N_Database.base",
+    "08-Test_folder/Untitled Kanban.md",
+    "08-Test_folder/Test file 2.md",
+    "08-Test_folder/Test file 1.md",
+    "08-Test_folder",
+    "06-Templater/YAMLAllInOne_Templater.md",
+    "06-Templater/TaskNote_Templater.md",
+    "06-Templater/Project_Templater.md",
+    "06-Templater/Plugin_Templater.md",
+    "06-Templater/PaperReading_Templater.md",
+    "06-Templater/MOC_Templater.md",
+    "06-Templater/GeneralProperties_Templater.md",
+    "06-Templater/Generate.md",
+    "06-Templater/DailyNote_Templater.md",
+    "06-Templater/Academics_Templater.md",
+    "06-Templater",
+    "05-Ai_Dialogue/Obsidian_Copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "05-Ai_Dialogue/Obsidian_Copilot/copilot-custom-prompts",
+    "05-Ai_Dialogue/ChatGPT/Philosophy",
+    "05-Ai_Dialogue/ChatGPT/TechLearning",
+    "05-Ai_Dialogue/ChatGPT/MathLearning"
   ]
 }
