@@ -6,17 +6,32 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"00-PC notes/Math数学\" ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.0953125,
+  "lineSizeMultiplier": 1.14635416666667,
   "collapse-forces": false,
-  "centerStrength": 0.535467128027682,
-  "repelStrength": 11.7474048442907,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.22920135941749475,
-  "close": true
+  "centerStrength": 0.583333333333333,
+  "repelStrength": 16.5625,
+  "linkStrength": 0.578125,
+  "linkDistance": 199,
+  "scale": 0.11660891579457461,
+  "close": false
 }

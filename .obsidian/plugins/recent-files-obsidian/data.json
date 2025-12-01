@@ -1,0 +1,28 @@
+{
+  "recentFiles": [
+    {
+      "basename": "00-Daily_note",
+      "path": "00-Daily_note/00-Daily_note.md"
+    },
+    {
+      "basename": "attachment-management",
+      "path": "02-Tech_learning/Obsidian Plugin/attachment-management.md"
+    },
+    {
+      "basename": "Obsidian Plugin",
+      "path": "02-Tech_learning/Obsidian Plugin/Obsidian Plugin.md"
+    },
+    {
+      "basename": "darlal-switcher-plus",
+      "path": "02-Tech_learning/Obsidian Plugin/Plugin Intro/darlal-switcher-plus.md"
+    },
+    {
+      "basename": "N_Database",
+      "path": "N_Database.base"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
